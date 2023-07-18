@@ -7,9 +7,9 @@ Intro to Classes, Instances, Methods, Attributes
     # Instances of the class:
     item1 = Item("Phone", 100, 5)
    # OR
-     Assign attributes to the instance of the class:
-     item1.name = "Phone" (dont need since init method (self.name))
-     item1.price = 100 (all in the item1 instance and the init method)
+     Assign attributes to the instance of the class:  
+     item1.name = "Phone"
+     item1.price = 100 
      item1.quantity = 5
 
 3) Classes are a blueprint for creating objects

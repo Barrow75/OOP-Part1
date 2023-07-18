@@ -6,12 +6,13 @@ Intro to Classes, Instances, Methods, Attributes
   EXAMPLE:
     # Instances of the class:
     item1 = Item("Phone", 100, 5)
-    # Assign attributes to the instance of the class:
-    # item1.name = "Phone" (dont need since init method (self.name))
-    # item1.price = 100 (all in the item1 instance and the init method)
-    # item1.quantity = 5
+   # OR
+     Assign attributes to the instance of the class:
+     item1.name = "Phone" (dont need since init method (self.name))
+     item1.price = 100 (all in the item1 instance and the init method)
+     item1.quantity = 5
 
-2) Classes are a blueprint for creating objects
+3) Classes are a blueprint for creating objects
       Includes:
            - 1. Class attributes: Belongs to the class itself and can be accessed through instances as well
                  Ex: pay_rate = .8

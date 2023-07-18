@@ -13,8 +13,8 @@ Intro to Classes, Instances, Methods, Attributes
      item1.price = 100   
      item1.quantity = 5  
 
-3) Classes are a blueprint for creating objects
-      Includes:
+3) Classes are a blueprint for creating objects  
+      Includes:  
            - 1. Class attributes: Belongs to the class itself and can be accessed through instances as well  
                  Ex: pay_rate = .8  
            - 2. Methods: Functions inside the classes. Provides functionality to the objects  

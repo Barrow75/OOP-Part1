@@ -5,7 +5,7 @@ Intro to Classes, Instances, Methods, Attributes
 1) Instances are the same as objects. They are designed to gives functionality
   EXAMPLE:
     # Instances of the class:
-   (Use when you have def __init__(self, name, price, quantity):  
+   (Use when you have def _ _init_ _(self, name, price, quantity):  
     item1 = Item("Phone", 100, 5)
    # OR
      Assign attributes to the instance of the class:  
